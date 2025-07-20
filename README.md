@@ -44,5 +44,19 @@ Netflix-Data-Analysis/
 - visualizations/ # Folder for saved plots
 - requirements.txt # Python dependencies
 
+## 📜 License
+
+This project is for learning purposes and is not intended for commercial use.  
+Feel free to fork and experiment.
+
+---
+
+## 🙋‍♂️ Author
+
+- **Name:** YENUGANTI HARI KRISHNA  
+- **Role:** Data Analyst & Student  
+- **Platform:** [Unified Mentor]  
+- **LinkedIn:** https://www.linkedin.com/in/yenuganti-hari-krishna-95496829b?
+
 
 
